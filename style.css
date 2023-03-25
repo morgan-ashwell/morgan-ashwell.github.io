@@ -1,0 +1,26 @@
+
+
+img.f1{
+  width:10%;
+}
+
+img.car{
+  width:66%;
+}
+
+
+
+img.car.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 66%;
+}
+
+
+body{
+  background-color:  #0f0f0a;
+}
+
+
+
